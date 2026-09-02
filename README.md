@@ -8,3 +8,4 @@ Completed assignments include:
 
 * mod01_box_model.ipynb 
  
+ For the semester project, I will investigate SnowModel (or something similar). 
