@@ -1,0 +1,11 @@
+name: fall26
+channels: 
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - pandas 
